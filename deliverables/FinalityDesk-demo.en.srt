@@ -1,0 +1,31 @@
+1
+00:00:00,059 --> 00:00:05,061
+FinalityDesk compares a transfer with an expected request.
+
+2
+00:00:05,147 --> 00:00:11,147
+This example uses a public Ethereum USDC transfer. No wallet connects.
+
+3
+00:00:13,305 --> 00:00:20,307
+The network, transfer and canonical block match. Finality passes separately.
+
+4
+00:00:20,362 --> 00:00:25,363
+Export stores the request and the RPC observations in a JSON file.
+
+5
+00:00:25,381 --> 00:00:30,382
+Changing the request by one base unit clears the previous result.
+
+6
+00:00:32,322 --> 00:00:39,324
+The same successful transaction now fails the requested-amount check.
+
+7
+00:00:39,397 --> 00:00:46,400
+This labeled synthetic example shows a matching transfer awaiting finality.
+
+8
+00:00:46,431 --> 00:00:52,433
+A report observes one RPC provider. It does not prove invoice ownership or cash receipt.

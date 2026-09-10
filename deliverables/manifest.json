@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-09-09T22:24:33.015115+00:00",
+  "sha256": "5f12d02487330990800902ad3965545ce369135e620fa1dbe82a1a59d962d79c",
+  "deliverables": {
+    "FinalityDesk-demo.en.srt": "47bfff53c83c75a9cf3c04e54f8ff10e14db89c1eb3aa02c3bcd3714006e44c3",
+    "FinalityDesk-source.zip": "5f12d02487330990800902ad3965545ce369135e620fa1dbe82a1a59d962d79c",
+    "FinalityDesk-presentation.pptx": "0a9137279e3291d4a3efba199478a259267eb97b71bdf47ff1ba821c196ef408",
+    "FinalityDesk-demo.mp4": "a8154f6d9e9913973034846328d688fd5d88fc817629d9e2a047a190b3f19a4d"
+  },
+  "files": {
+    "package.json": "51314bec118c93c9cf61154568590285fb39d953c8e8c82fecade1013b1968a5",
+    "package-lock.json": "c5de7ccacae33fdff33d75306fafc2613c8852e3f92b7de086c231ef3a4dab05",
+    "index.html": "b521863f2d5cf8ba7c35786dd1d98508dfc42ae71fbd6cf6f51e95b9bbcabbf2",
+    "README.md": "b94c04b928cfabbf70535038bdeb87cdb689667186ae43222d668e0fb8aee67c",
+    ".gitignore": "0087288a7079e0d063a5a3aafac6d8522d1ceceb4870afe9407c67a5f73b46de",
+    "src/verify.js": "f8533ba3d1ac9e483ff63442fb92e20f36a4a99e71341ddf233e27261db78554",
+    "src/main.jsx": "0e13743654198175b23335cd999655824b7cb2d9a4ae53d4f7e5881ebc9db84f",
+    "src/style.css": "b271009e4e7d85c976beaf930de3ddf8fe2105688c68426eb9416ab43bc40b2e",
+    "src/sample.js": "9e0555ade9d81ef50410a274926082fb2093b8255ecc5d3cf859d76bb883e40b",
+    "test/verify.test.js": "a750aefbe86e1771f7c17724724b3d3d678cd5be733b51c10b78c7caea1e7003",
+    "scripts/live-smoke.js": "a824fdaa650f73af849851f8547f50b91b2caa8faf970b3d86eb4de004b1ac9d",
+    "dist/index.html": "ff628d4868c8214eabe159b6af39d0862cdeb386f0a533816dfc26438669fe6a",
+    "dist/assets/index-C03ZQsH8.js": "d199b966bef68ab2fd8303396550ba6625a029bd8ba05fc186bb6b3c5c772a4c",
+    "dist/assets/index-XF-dO5Jv.css": "64413c654d0f415a463c5111122c41aa36c94c6a6508992f7c8d6e01c278946e"
+  }
+}
